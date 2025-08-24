@@ -1,0 +1,80 @@
+# ☢️ Mekanism Radiation Expansion (Concept Mod)
+
+This is a **community-free project** idea for expanding Mekanism’s radiation system with more tools for **detection, purification, and safety**.  
+I’m not a coder, but I had this idea and wanted to share it with the community.  
+Anyone is welcome to **contribute, suggest features, give feedback, or even build the mod itself!**
+
+---
+
+## ✨ Features
+
+### 🔍 Radiation Detection
+- **Radiation Detection Device (RDD - Handheld)**  
+  - Works like a mix of Mekanism’s Dosimeter & Geiger Counter  
+  - Displays radiation level with its own HUD overlay  
+  - Emits **beeping sounds** that can be toggled on/off (Shift + Right Click)  
+  - Not tiered  
+
+- **Stationary Radiation Detection Block**  
+  - Placed in the world like a machine  
+  - Detects radiation levels around it  
+  - Displays color-coded numbers based on intensity  
+  - Outputs **different redstone signal strengths** based on radiation level  
+  - Has a **toggle button** to ignore natural background radiation  
+  - Beeping alarm can be toggled on/off and integrates with Mekanism’s **redstone logic system**
+
+---
+
+### 🌍 Purification
+- **Player Purification Device (PPD)**  
+  - Worn or carried  
+  - Actively purifies the **player’s radiation levels**  
+  - Tiered system (Mk I → Mk IV)  
+  - Higher tiers = faster purification and better efficiency  
+  - Tank storage = **half the capacity of tier tanks**
+
+- **Area Purification Device (APD)**  
+  - Placed as a block to purify an **area around it**  
+  - Tiered system (Mk I → Mk IV)  
+  - Higher tiers = wider area, faster purification  
+  - Tank storage = **half the capacity of tier tanks**
+
+---
+
+## 🛠 Crafting
+
+Crafting follows a **progressive tier upgrade system**, inspired by Mekanism’s factories:
+
+- **RDD (Handheld)** → crafted with a standard Radiation Detecting Device, control circuit, iron, and redstone.  
+- **Stationary RDD Block** → crafted with osmium, redstone, the handheld RDD, a control circuit, and a machine casing.  
+- **PPD / APD Tiers** → each tier is crafted by combining the previous tier device with osmium, redstone, and the matching tier of control circuit.  
+- Tank storage for PPD and APD devices is **half of the Mekanism tiered tank capacity**.  
+
+---
+
+## 📊 Roadmap
+✔️ Concept design  
+✔️ Crafting progression system  
+✔️ Tier logic for purification devices  
+✔️ Redstone + alarm integration  
+✔️ Beeping toggle mechanics  
+✔️ Community roadmap infographic  
+
+🔜 Future ideas:
+- Config options for balance  
+- More integration with Mekanism machines  
+- Advanced alarms & displays  
+
+---
+
+## 📢 Community
+This is an **open idea for the community**.  
+Since I can’t code, I’m sharing it so modders and Mekanism fans can make it real.  
+
+👉 Feel free to:  
+- Suggest new features  
+- Give balance feedback  
+- Contribute code or assets  
+- Fork the idea into your own project  
+
+Together, we can make radiation gameplay in Mekanism **more immersive and fun**! 🚀
