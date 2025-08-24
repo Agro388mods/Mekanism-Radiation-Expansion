@@ -33,4 +33,4 @@ This project is licensed under **Creative Commons Attribution-NonCommercial 4.0 
 - You **cannot sell** or use it commercially.  
 - Credit **Agro388** and all contributors in any use or derivative work.
 
-For full license text, see [LICENSE](LICENSE) or visit: https://creativecommons.org/licenses/by-nc/4.0/
+For full license text, see [LICENSE](https://github.com/erdelyi21511/Mekanism-Radiation-Expansion?tab=License-1-ov-file#readme) or visit: https://creativecommons.org/licenses/by-nc/4.0/
