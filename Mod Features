@@ -1,0 +1,54 @@
+Mekanism: Radiation Expansion – Feature List
+
+1. Radiation Mechanics
+
+Expanded radiation system for improved realism.
+
+Adjustable radiation levels per block, material, or biome.
+
+Visual and audio cues for radiation exposure.
+
+Radiation sickness effects on players and mobs.
+
+Radiation decay over time and natural mitigation.
+
+
+2. Radiation Detection Devices
+
+Handheld Geiger counters and dosimeters.
+
+Stationary radiation monitors for base/building use.
+
+Adjustable detection sensitivity and alert system.
+
+Optional togglable alerts (sound and redstone signals).
+
+
+3. Radiation Protection & Equipment
+
+New protective suits with tiered radiation resistance.
+
+Radiation shielding blocks for base construction.
+
+Consumables (e.g., radiation medicine, anti-radiation drinks).
+
+Upgradeable protective gear with community-suggested improvements.
+
+
+4. Environmental Interaction
+
+Certain ores and blocks emit radiation naturally.
+
+Radiation spreads in specific conditions (water, air, soil).
+
+Radiation affects machinery and redstone devices if exposure is high.
+
+
+5. Community & Customization Features
+
+Open to community suggestions for new devices and effects.
+
+Configurable radiation parameters via JSON or config files.
+
+Easily expandable to add new radiation sources, effects, or equipment.
+
